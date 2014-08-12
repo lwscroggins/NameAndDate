@@ -1,0 +1,20 @@
+{
+  "name": "NameAndDate.js",
+  "version": "0.0.0",
+  "description": "a simple express JSON api that displays the local time and greets the first name as part of an url.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Larry Scroggins",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/lwscroggins/NameAndDate"
+  },
+  "homepage": "http://www.github.com/lwscroggins/NameAndDate",
+  "dependencies": {
+    "express": "^4.8.3",
+    "http": "0.0.0"
+  }
+}
